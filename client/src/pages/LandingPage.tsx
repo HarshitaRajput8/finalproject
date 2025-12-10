@@ -178,7 +178,7 @@ export default function LandingPage() {
                   </div>
                   <div>
                     <h4 className="font-bold">Visit Us</h4>
-                    <p className="text-muted-foreground">123 Innovation Drive, Tech City, TC 90210</p>
+                    <p className="text-muted-foreground">123 Innovation Drive, Tech City, Indore</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -187,7 +187,7 @@ export default function LandingPage() {
                   </div>
                   <div>
                     <h4 className="font-bold">Call Us</h4>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                    <p className="text-muted-foreground">+9301806898</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
